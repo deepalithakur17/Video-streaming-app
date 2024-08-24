@@ -1,0 +1,1 @@
+Developed a video streaming application using Node.js and Express.js for the backend, and React with the videojs library for the frontend.This project enabled users to upload and stream video content using the M3U8 format over the internet. 
